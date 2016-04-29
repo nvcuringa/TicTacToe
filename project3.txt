@@ -1,0 +1,91 @@
+Script started on Thu 17 Jul 2014 07:21:58 PM PDT
+]0;nvcuringa@garrison:~/cs141/Project3[?1034h[01;32mnvcuringa@garrison[01;34m ~/cs141/Project3 $[00m java PlayTicTacToec PlayTicTacToe.java[6P PlayTicTacToe
+|-------|
+| || || |
+|-------|
+| || || |
+|-------|
+| || || |
+|-------|
+Player 1 choose a row and column.
+1
+1
+|-------|
+| || || |
+|-------|
+| ||O|| |
+|-------|
+| || || |
+|-------|
+
+Player 2 choose a row and column.
+2
+1
+|-------|
+| || || |
+|-------|
+| ||O|| |
+|-------|
+| ||X|| |
+|-------|
+
+Player 1 choose a row and column.
+1
+2
+|-------|
+| || || |
+|-------|
+| ||O||O|
+|-------|
+| ||X|| |
+|-------|
+
+Player 2 choose a row and column.
+1
+0
+|-------|
+| || || |
+|-------|
+|X||O||O|
+|-------|
+| ||X|| |
+|-------|
+
+Player 1 choose a row and column.
+0
+2
+|-------|
+| || ||O|
+|-------|
+|X||O||O|
+|-------|
+| ||X|| |
+|-------|
+
+Player 2 choose a row and column.
+2
+2
+|-------|
+| || ||O|
+|-------|
+|X||O||O|
+|-------|
+| ||X||X|
+|-------|
+
+Player 1 choose a row and column.
+2
+0
+|-------|
+| || ||O|
+|-------|
+|X||O||O|
+|-------|
+|O||X||X|
+|-------|
+
+Player 1 wins!
+]0;nvcuringa@garrison:~/cs141/Project3[01;32mnvcuringa@garrison[01;34m ~/cs141/Project3 $[00m exit
+exit
+
+Script done on Thu 17 Jul 2014 07:22:55 PM PDT
